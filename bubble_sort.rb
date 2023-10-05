@@ -1,3 +1,3 @@
-def bubble_sort(sort)
+def bubble_sort(array)
 
 end
